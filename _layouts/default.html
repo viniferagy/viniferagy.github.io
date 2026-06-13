@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
+<body>
+<a class="skip" href="#main-content">Skip to content</a>
+
+{% include mbar.html %}
+{% include rail.html %}
+
+<main id="main-content">
+  {{ content }}
+  <footer>
+    <span>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</span>
+    <span><a href="#top">back to top &uarr;</a></span>
+  </footer>
+</main>
+
+{% include scripts.html %}
+</body>
+</html>

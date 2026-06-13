@@ -1,0 +1,72 @@
+{% include analytics.html %}
+{% include fetch_google_scholar_stats.html %}
+
+<script>
+(function(){
+  "use strict";
+  var root = document.documentElement;
+
+  /* ---------- theme ---------- */
+  function storedTheme(){ try{ return localStorage.getItem("wl-theme"); }catch(e){ return null; } }
+  function saveTheme(v){ try{ localStorage.setItem("wl-theme", v); }catch(e){} }
+  function systemTheme(){
+    return (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  }
+  function applyTheme(v){
+    root.setAttribute("data-theme", v);
+    document.querySelectorAll("[data-theme-label]").forEach(function(el){
+      el.textContent = v === "dark" ? "Light mode" : "Dark mode";
+    });
+  }
+  applyTheme(storedTheme() || systemTheme());
+  document.querySelectorAll("[data-theme-toggle]").forEach(function(btn){
+    btn.addEventListener("click", function(){
+      var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      applyTheme(next); saveTheme(next);
+    });
+  });
+
+  /* ---------- scrollspy ---------- */
+  var links = Array.prototype.slice.call(document.querySelectorAll('.nav a, .mnav a'));
+  var sections = Array.prototype.slice.call(document.querySelectorAll("section[id]"))
+    .filter(function(s){ return links.some(function(a){ return a.getAttribute("href") === "#" + s.id; }); });
+  function setActive(id){
+    links.forEach(function(a){ a.classList.toggle("active", a.getAttribute("href") === "#" + id); });
+  }
+  if ("IntersectionObserver" in window && sections.length){
+    var current = sections[0].id;
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){ if (en.isIntersecting) current = en.target.id; });
+      setActive(current);
+    }, { rootMargin: "-35% 0px -55% 0px", threshold: 0 });
+    sections.forEach(function(s){ io.observe(s); });
+    setActive(current);
+  }
+
+  /* ---------- publication filter ---------- */
+  var tabs = document.querySelectorAll(".tab");
+  var pubs = document.querySelectorAll(".pub");
+  tabs.forEach(function(tab){
+    tab.addEventListener("click", function(){
+      var f = tab.getAttribute("data-filter");
+      tabs.forEach(function(t){ t.setAttribute("aria-pressed", String(t === tab)); });
+      pubs.forEach(function(p){
+        var show = (f === "all") || (p.getAttribute("data-role") === f);
+        if (show) p.removeAttribute("hidden"); else p.setAttribute("hidden", "");
+      });
+    });
+  });
+
+  /* ---------- copy email ---------- */
+  document.querySelectorAll(".copybtn").forEach(function(btn){
+    btn.addEventListener("click", function(e){
+      e.preventDefault(); e.stopPropagation();
+      var text = btn.getAttribute("data-copy");
+      function done(){ var o = btn.textContent; btn.textContent = "copied ✓"; setTimeout(function(){ btn.textContent = o; }, 1400); }
+      if (navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(text).then(done, function(){});
+      }
+    });
+  });
+})();
+</script>

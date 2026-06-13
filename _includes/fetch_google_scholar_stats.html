@@ -1,0 +1,25 @@
+{% if site.repository %}
+<script>
+(function(){
+  {% if site.google_scholar_stats_use_cdn %}
+  var base = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@';
+  {% else %}
+  var base = 'https://raw.githubusercontent.com/{{ site.repository }}/';
+  {% endif %}
+  fetch(base + 'google-scholar-stats/gs_data.json')
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      var el = document.getElementById('total_cit');
+      if (el && data.citedby) el.textContent = data.citedby + ' cit.';
+      var items = document.getElementsByClassName('show_paper_citations');
+      Array.prototype.forEach.call(items, function(item){
+        var id = item.getAttribute('data');
+        if (data.publications && data.publications[id]){
+          item.textContent = '| Citations: ' + data.publications[id].num_citations;
+        }
+      });
+    })
+    .catch(function(){});
+})();
+</script>
+{% endif %}
