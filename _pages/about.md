@@ -11,7 +11,7 @@ redirect_from:
   <div class="hgroup">
     <p class="eyebrow">Ph.D. Student · Computational Linguistics</p>
     <h1>{{ site.author.name }}</h1>
-    <p class="lede">Ph.D. student at the State Key Laboratory of Multimedia Information Processing, School of Computer Science, <a href="https://english.pku.edu.cn/" target="_blank" rel="noopener">Peking University</a>, advised by Prof.&nbsp;Houfeng&nbsp;Wang.</p>
+    <p class="lede">Ph.D. student at the School of Computer Science, <a href="https://english.pku.edu.cn/" target="_blank" rel="noopener">Peking University</a>, advised by Prof.&nbsp;Houfeng&nbsp;Wang.</p>
     <div class="tokens" aria-label="Research focus: reasoning, retrieval augmentation, memory">
       <span class="tok" data-gloss="improving faithfulness of chain-of-thought generation" style="--p:.94"><i class="ix">[0]</i>reasoning<span class="bar"><i></i></span><span class="p">p = 0.94</span></span>
       <span class="tok" data-gloss="enhancing retrieval for in-context learning" style="--p:.96"><i class="ix">[1]</i>retrieval-aug<span class="bar"><i></i></span><span class="p">p = 0.96</span></span>
@@ -189,7 +189,7 @@ redirect_from:
   <div class="rows">
     <div class="row">
       <div class="when">2023.09 — 2028.07<br>(expected)</div>
-      <p class="what"><b>Ph.D., Peking University</b><small>State Key Laboratory of Multimedia Information Processing, School of Computer Science</small></p>
+      <p class="what"><b>Ph.D., Peking University</b><small>School of Computer Science</small></p>
     </div>
     <div class="row">
       <div class="when">2019.09 — 2023.07</div>
