@@ -72,7 +72,7 @@ redirect_from:
     <article class="pub" data-role="co">
       <div class="yr">2026</div>
       <div>
-        <div class="meta"><span class="badge preprint">arXiv 2026</span></div>
+        <div class="meta"><span class="badge preprint">Technical Report</span></div>
         <h3><a href="https://arxiv.org/abs/2602.13367" target="_blank" rel="noopener">Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts</a></h3>
         <p class="au">Chen Yang, <span class="me">Guangyue Peng</span>, Jiahao Zhu, et al.</p>
         <a class="src" href="https://arxiv.org/abs/2602.13367" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
@@ -128,6 +128,16 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2025.findings-acl.1090/" target="_blank" rel="noopener">Encode Errors: Representational Retrieval of In-Context Demonstrations for Multilingual Grammatical Error Correction</a></h3>
         <p class="au"><span class="me">Guangyue Peng</span>, Wei Li, Wen Luo, et al.</p>
         <a class="src" href="https://aclanthology.org/2025.findings-acl.1090/" target="_blank" rel="noopener">ACL Anthology<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+      </div>
+    </article>
+
+    <article class="pub" data-role="co">
+      <div class="yr">2025</div>
+      <div>
+        <div class="meta"><span class="badge">ACL 2025</span></div>
+        <h3><a href="https://arxiv.org/abs/2503.08057" target="_blank" rel="noopener">Odysseus Navigates the Sirens' Song: Dynamic Focus Decoding for Factual and Diverse Open-Ended Text Generation</a></h3>
+        <p class="au">Wen Luo, Feifan Song, Wei Li, <span class="me">Guangyue Peng</span>, et al.</p>
+        <a class="src" href="https://arxiv.org/abs/2503.08057" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
       </div>
     </article>
 
