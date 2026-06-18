@@ -39,11 +39,11 @@ redirect_from:
 </section>
 
 <section id="publications" aria-labelledby="h-pubs">
-  <h2 class="eyebrow" id="h-pubs">Publications<span class="count">10 entries</span></h2>
+  <h2 class="eyebrow" id="h-pubs">Publications<span class="count">11 entries</span></h2>
   <div class="tabs" role="group" aria-label="Filter publications">
-    <button class="tab" data-filter="all" aria-pressed="true">All · 10</button>
+    <button class="tab" data-filter="all" aria-pressed="true">All · 11</button>
     <button class="tab" data-filter="first" aria-pressed="false">First-author · 3</button>
-    <button class="tab" data-filter="co" aria-pressed="false">Co-author · 7</button>
+    <button class="tab" data-filter="co" aria-pressed="false">Co-author · 8</button>
   </div>
   <div class="publist">
 
