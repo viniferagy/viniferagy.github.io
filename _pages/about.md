@@ -26,7 +26,14 @@ redirect_from:
     </div>
   </div>
   <div class="portrait">
-    <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" width="148" height="148">
+    <img
+      src="{{ site.author.avatar | relative_url }}"
+      alt="{{ site.author.name }}"
+      width="148"
+      height="148"
+      loading="eager"
+      fetchpriority="high"
+    >
   </div>
 </section>
 
