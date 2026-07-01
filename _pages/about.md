@@ -63,7 +63,7 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2605.01749" target="_blank" rel="noopener">Only Say What You Know: Calibration-Aware Generation for Long-Form Factuality</a></h3>
         <p class="au">Wen Luo, <span class="me">Guangyue Peng</span>, Liang Wang, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2605.01749" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2605.01749" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
     </article>
@@ -75,8 +75,8 @@ redirect_from:
         <h3><a href="https://icml.cc/virtual/2026/poster/62852" target="_blank" rel="noopener">Measuring and Mitigating Post-hoc Rationalization in Reverse Chain-of-Thought Generation</a></h3>
         <p class="au"><span class="me">Guangyue Peng</span>, Zongchao Chen, Wen Luo, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2602.14469" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://icml.cc/virtual/2026/poster/62852" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2602.14469" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://icml.cc/virtual/2026/poster/62852" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://github.com/viniferagy/SSR" target="_blank" rel="noopener"><svg class="brand-icon github" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>Code<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
@@ -89,7 +89,7 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2602.13367" target="_blank" rel="noopener">Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts</a></h3>
         <p class="au">Chen Yang, <span class="me">Guangyue Peng</span>, Jiahao Zhu, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2602.13367" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2602.13367" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://huggingface.co/Nanbeige/Nanbeige4.1-3B" target="_blank" rel="noopener"><svg class="brand-icon huggingface" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7.2"/><path d="M8.1 4.2 6.8 2.3M15.9 4.2l1.3-1.9M7.3 11.2h.1M16.6 11.2h.1M8.6 15.1c1.7 1.4 5.1 1.4 6.8 0M5.2 17.8c-1.4-.4-2.5-1.6-2.8-3M18.8 17.8c1.4-.4 2.5-1.6 2.8-3"/></svg>Model<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
@@ -102,8 +102,8 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2026.findings-acl.1545/" target="_blank" rel="noopener">PACE: Prefix-Protected and Difficulty-Aware Compression for Efficient Reasoning</a></h3>
         <p class="au">Ruixiang Feng, ..., <span class="me">Guangyue Peng</span>, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2602.11639" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://aclanthology.org/2026.findings-acl.1545/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2602.11639" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2026.findings-acl.1545/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
     </article>
@@ -115,8 +115,8 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2026.acl-long.1173/" target="_blank" rel="noopener">Two Pathways to Truthfulness: On the Intrinsic Encoding of LLM Hallucinations</a></h3>
         <p class="au">Wen Luo, <span class="me">Guangyue Peng</span>, Wei Li, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2601.07422" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://aclanthology.org/2026.acl-long.1173/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2601.07422" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2026.acl-long.1173/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
     </article>
@@ -128,7 +128,7 @@ redirect_from:
         <h3><a href="https://conf.researchr.org/details/icsme-2026/icsme-2026-papers/24/SWE-Ext-Scaling-and-Extending-Augmented-Data-for-Mid-Training-of-Repository-Level-Co" target="_blank" rel="noopener">SWE-Ext: Scaling and Extending Augmented Data for Mid-Training of Repository-Level Coding Tasks</a></h3>
         <p class="au">Wei Li, Xin Zhang, Shaohang Wei, Wen Luo, Feifan Song, <span class="me">Guangyue Peng</span>, et al.</p>
         <div class="links">
-          <a class="src" href="https://conf.researchr.org/details/icsme-2026/icsme-2026-papers/24/SWE-Ext-Scaling-and-Extending-Augmented-Data-for-Mid-Training-of-Repository-Level-Co" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://conf.researchr.org/details/icsme-2026/icsme-2026-papers/24/SWE-Ext-Scaling-and-Extending-Augmented-Data-for-Mid-Training-of-Repository-Level-Co" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
     </article>
@@ -142,7 +142,7 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2025.acl-long.1385/" target="_blank" rel="noopener">Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory</a></h3>
         <p class="au"><span class="me">Guangyue Peng</span>, Tao Ge, Wen Luo, et al.</p>
         <div class="links">
-          <a class="src" href="https://aclanthology.org/2025.acl-long.1385/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2025.acl-long.1385/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://github.com/viniferagy/MoNIM" target="_blank" rel="noopener"><svg class="brand-icon github" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>Code<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
@@ -155,8 +155,8 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2025.findings-acl.1090/" target="_blank" rel="noopener">Encode Errors: Representational Retrieval of In-Context Demonstrations for Multilingual Grammatical Error Correction</a></h3>
         <p class="au"><span class="me">Guangyue Peng</span>, Wei Li, Wen Luo, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2606.15416" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://aclanthology.org/2025.findings-acl.1090/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2606.15416" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2025.findings-acl.1090/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://github.com/viniferagy/GER" target="_blank" rel="noopener"><svg class="brand-icon github" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>Code<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
@@ -169,8 +169,8 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2025.acl-long.1320/" target="_blank" rel="noopener">Odysseus Navigates the Sirens' Song: Dynamic Focus Decoding for Factual and Diverse Open-Ended Text Generation</a></h3>
         <p class="au">Wen Luo, Feifan Song, Wei Li, <span class="me">Guangyue Peng</span>, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2503.08057" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://aclanthology.org/2025.acl-long.1320/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2503.08057" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2025.acl-long.1320/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://github.com/RowanWenLuo/Siren-DFD" target="_blank" rel="noopener"><svg class="brand-icon github" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>Code<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
@@ -183,8 +183,8 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2025.acl-long.839/" target="_blank" rel="noopener">FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation</a></h3>
         <p class="au">Wei Li, Xin Zhang, ..., Wen Luo, <span class="me">Guangyue Peng</span>, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2503.06680" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://aclanthology.org/2025.acl-long.839/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2503.06680" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2025.acl-long.839/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://github.com/microsoft/FEA-Bench" target="_blank" rel="noopener"><svg class="brand-icon github" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>Code<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
@@ -197,8 +197,8 @@ redirect_from:
         <h3><a href="https://aclanthology.org/2025.naacl-long.251/" target="_blank" rel="noopener">Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction</a></h3>
         <p class="au">Wei Li, Wen Luo, <span class="me">Guangyue Peng</span>, et al.</p>
         <div class="links">
-          <a class="src" href="https://arxiv.org/abs/2502.08507" target="_blank" rel="noopener">arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://aclanthology.org/2025.naacl-long.251/" target="_blank" rel="noopener">Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://arxiv.org/abs/2502.08507" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://aclanthology.org/2025.naacl-long.251/" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Conference<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
           <a class="src" href="https://github.com/GMago-LeWay/FewShotGEC" target="_blank" rel="noopener"><svg class="brand-icon github" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>Code<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
