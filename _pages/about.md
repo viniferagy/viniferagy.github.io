@@ -91,7 +91,7 @@ redirect_from:
         <p class="au">Chen Yang, <span class="me">Guangyue Peng</span>, Jiahao Zhu, et al.</p>
         <div class="links">
           <a class="src" href="https://arxiv.org/abs/2602.13367" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
-          <a class="src" href="https://huggingface.co/Nanbeige/Nanbeige4.1-3B" target="_blank" rel="noopener"><svg class="brand-icon huggingface" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7.2"/><path d="M8.1 4.2 6.8 2.3M15.9 4.2l1.3-1.9M7.3 11.2h.1M16.6 11.2h.1M8.6 15.1c1.7 1.4 5.1 1.4 6.8 0M5.2 17.8c-1.4-.4-2.5-1.6-2.8-3M18.8 17.8c1.4-.4 2.5-1.6 2.8-3"/></svg>Model<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
+          <a class="src" href="https://huggingface.co/Nanbeige/Nanbeige4.1-3B" target="_blank" rel="noopener"><svg class="brand-icon huggingface" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7.2"/><path d="M8.1 4.2 6.8 2.3M15.9 4.2l1.3-1.9M8.6 15.1c1.7 1.4 5.1 1.4 6.8 0M5.2 17.8c-1.4-.4-2.5-1.6-2.8-3M18.8 17.8c1.4-.4 2.5-1.6 2.8-3"/></svg>Model<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
         </div>
       </div>
     </article>
