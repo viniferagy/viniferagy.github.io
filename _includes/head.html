@@ -20,5 +20,5 @@
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Person","name":"{{ site.author.name }}","jobTitle":"Ph.D. Student","affiliation":{"@type":"Organization","name":"Peking University"},"email":"mailto:{{ site.author.email }}","address":{"@type":"PostalAddress","addressLocality":"{{ site.author.location }}"},"sameAs":[{% if site.author.googlescholar %}"{{ site.author.googlescholar }}"{% endif %}{% if site.author.dblp %},"{{ site.author.dblp }}"{% endif %}{% if site.author.orcid %},"{{ site.author.orcid }}"{% endif %}]}
+{"@context":"https://schema.org","@type":"Person","name":"{{ site.author.name }}","jobTitle":"Ph.D. Student","affiliation":{"@type":"Organization","name":"Peking University"},"email":"mailto:{{ site.author.email }}","address":{"@type":"PostalAddress","addressLocality":"{{ site.author.location }}"},"sameAs":[{% if site.author.googlescholar %}"{{ site.author.googlescholar }}"{% endif %}{% if site.author.dblp %},"{{ site.author.dblp }}"{% endif %}{% if site.author.orcid %},"{{ site.author.orcid }}"{% endif %}{% if site.author.huggingface %},"{{ site.author.huggingface }}"{% endif %}]}
 </script>

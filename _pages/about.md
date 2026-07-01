@@ -23,6 +23,7 @@ redirect_from:
       {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Scholar</a>{% endif %}
       {% if site.author.dblp %}<a href="{{ site.author.dblp }}" target="_blank" rel="noopener">DBLP</a>{% endif %}
       {% if site.author.orcid %}<a href="{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID</a>{% endif %}
+      {% if site.author.huggingface %}<a href="{{ site.author.huggingface }}" target="_blank" rel="noopener">Hugging Face</a>{% endif %}
     </div>
   </div>
   <div class="portrait">

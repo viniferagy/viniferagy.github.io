@@ -45,6 +45,12 @@
         ORCID
       </a>
       {% endif %}
+      {% if author.huggingface %}
+      <a href="{{ author.huggingface }}" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7.2"/><path d="M8.1 4.2 6.8 2.3M15.9 4.2l1.3-1.9M7.3 11.2h.1M16.6 11.2h.1M8.6 15.1c1.7 1.4 5.1 1.4 6.8 0M5.2 17.8c-1.4-.4-2.5-1.6-2.8-3M18.8 17.8c1.4-.4 2.5-1.6 2.8-3"/></svg>
+        Hugging Face
+      </a>
+      {% endif %}
       {% if author.location %}
       <span class="loc">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-5.3-7-11a7 7 0 0 1 14 0c0 5.7-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
