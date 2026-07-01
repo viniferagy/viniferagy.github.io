@@ -200,7 +200,7 @@ section{padding-top:64px;scroll-margin-top:24px}
   border:1px solid var(--accent);color:var(--accent);padding:3px 9px;border-radius:3px;
 }
 .badge.preprint{border-color:var(--line);color:var(--ink-2)}
-.badge.tech-report{background:var(--hf-earth);border-color:var(--hf-earth-deep);color:var(--hf-earth-on)}
+.badge.tech-report{border-color:var(--hf-earth);color:var(--hf-earth)}
 .badge.oral{background:var(--accent);border-color:var(--accent);color:var(--badge-on)}
 .role{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;color:var(--ink-2);text-transform:uppercase}
 .role::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--accent);margin-right:6px;vertical-align:1px}
@@ -221,7 +221,10 @@ section{padding-top:64px;scroll-margin-top:24px}
 .src svg{width:11px;height:11px;stroke:currentColor;fill:none;stroke-width:1.8}
 .src .brand-icon{width:13px;height:13px;flex:0 0 13px}
 .src .brand-icon.github{fill:currentColor;stroke:none}
-.src .brand-icon.huggingface{fill:currentColor;stroke:none;width:13px;height:13px}
+.src .brand-icon.huggingface{
+  fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;
+  width:14px;height:14px;flex-basis:14px;
+}
 .src:hover{color:var(--accent);border-color:var(--accent);text-decoration:none}
 .pub[hidden]{display:none}
 
