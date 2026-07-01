@@ -9,6 +9,9 @@
   --accent-deep:#7A1114;
   --accent-tint:rgba(158,27,31,.07);
   --badge-on:#FFFFFF;
+  --hf-earth:#9A6A1A;
+  --hf-earth-deep:#7B5417;
+  --hf-earth-on:#FFF7DE;
   --rail-w:268px;
   --serif:"Newsreader","DejaVu Serif",Georgia,"Times New Roman",serif;
   --mono:"IBM Plex Mono","DejaVu Sans Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
@@ -23,6 +26,9 @@
   --accent-deep:#EF8A8D;
   --accent-tint:rgba(226,102,106,.10);
   --badge-on:#1C0A0B;
+  --hf-earth:#C58A2D;
+  --hf-earth-deep:#E1A84C;
+  --hf-earth-on:#17110A;
 }
 
 /* ============ base ============ */
@@ -194,6 +200,7 @@ section{padding-top:64px;scroll-margin-top:24px}
   border:1px solid var(--accent);color:var(--accent);padding:3px 9px;border-radius:3px;
 }
 .badge.preprint{border-color:var(--line);color:var(--ink-2)}
+.badge.tech-report{background:var(--hf-earth);border-color:var(--hf-earth-deep);color:var(--hf-earth-on)}
 .badge.oral{background:var(--accent);border-color:var(--accent);color:var(--badge-on)}
 .role{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;color:var(--ink-2);text-transform:uppercase}
 .role::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--accent);margin-right:6px;vertical-align:1px}
@@ -205,12 +212,16 @@ section{padding-top:64px;scroll-margin-top:24px}
   color:var(--ink);font-weight:500;
   box-shadow:inset 0 -2px 0 var(--accent);
 }
+.links{display:flex;flex-wrap:wrap;gap:8px}
 .src{
   display:inline-flex;align-items:center;gap:6px;
   font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
   color:var(--ink-2);text-decoration:none;border:1px solid var(--line);padding:5px 10px;border-radius:3px;
 }
 .src svg{width:11px;height:11px;stroke:currentColor;fill:none;stroke-width:1.8}
+.src .brand-icon{width:13px;height:13px;flex:0 0 13px}
+.src .brand-icon.github{fill:currentColor;stroke:none}
+.src .brand-icon.huggingface{fill:currentColor;stroke:none;width:13px;height:13px}
 .src:hover{color:var(--accent);border-color:var(--accent);text-decoration:none}
 .pub[hidden]{display:none}
 
