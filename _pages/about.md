@@ -257,7 +257,7 @@ redirect_from:
   <h2 class="eyebrow" id="h-intern">Internships</h2>
   <div class="rows">
     <div class="row">
-      <div class="when">2025.04 — 2026.03</div>
+      <div class="when">2025.04 — 2026.04</div>
       <p class="what"><b>BOSS Zhipin</b><small>Research Intern, Algorithm Engineering Group · Beijing</small></p>
     </div>
     <div class="row">
@@ -265,7 +265,7 @@ redirect_from:
       <p class="what"><b>Peking University &amp; Founder Group</b><small>University-Enterprise Cooperation Project · Beijing</small></p>
     </div>
     <div class="row">
-      <div class="when">2022.09 — 2023.03</div>
+      <div class="when">2022.09 — 2023.06</div>
       <p class="what"><b>Microsoft Research Asia</b><small>Research Intern, Innovation Engineering Group · Beijing</small></p>
     </div>
   </div>
