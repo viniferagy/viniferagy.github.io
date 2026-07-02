@@ -85,6 +85,7 @@ a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
 }
 .contact a:hover{color:var(--ink)}
 .contact svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:1.5;flex:none}
+.contact .hf-icon{width:15px;height:15px}
 .copybtn{
   margin-left:auto;border:0;background:none;cursor:pointer;color:var(--ink-2);
   font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;padding:2px 4px;
@@ -224,7 +225,7 @@ section{padding-top:64px;scroll-margin-top:24px}
 .src .brand-icon.github{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
 .src .brand-icon.huggingface{
   fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;
-  width:14px;height:14px;flex-basis:14px;
+  width:15px;height:15px;flex-basis:15px;
 }
 .src:hover{color:var(--accent);border-color:var(--accent);text-decoration:none}
 .pub[hidden]{display:none}
