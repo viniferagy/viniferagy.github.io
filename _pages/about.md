@@ -85,7 +85,7 @@ redirect_from:
       <div class="yr">2026</div>
       <div>
         <div class="meta"><span class="badge">ICML 2026</span><span class="role">First author</span></div>
-        <h3><a href="https://icml.cc/virtual/2026/poster/62852" target="_blank" rel="noopener">Measuring and Mitigating Post-hoc Rationalization in Reverse Chain-of-Thought Generation</a></h3>
+        <h3><a href="https://arxiv.org/abs/2602.14469" target="_blank" rel="noopener">Measuring and Mitigating Post-hoc Rationalization in Reverse Chain-of-Thought Generation</a></h3>
         <p class="au"><span class="me">Guangyue Peng</span>, Zongchao Chen, Wen Luo, et al.</p>
         <div class="links">
           <a class="src" href="https://arxiv.org/abs/2602.14469" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>arXiv<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg></a>
